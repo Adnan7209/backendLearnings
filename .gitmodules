@@ -1,0 +1,3 @@
+[submodule "urlShortning"]
+	path = urlShortning
+	url = https://github.com/Adnan7209/urlShortning.git
